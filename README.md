@@ -29,4 +29,6 @@ Switch to the environment:
 pipenv shell
 ```
 
-# Ready to go!
+```sh
+echo "Ready to go!"
+```
