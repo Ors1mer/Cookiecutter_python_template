@@ -16,7 +16,7 @@ Install **pipenv** and **cookiecutter** (make sure that it'll be located in a PA
 ```sh
 pip install pipenv cookiecutter
 ```
-Use cookiecutter to create a new project:
+Use cookiecutter to create a new project (you may use path to local template as an argument, too):
 ```sh
 cookiecutter https://github.com/Ors1mer/Cookiecutter_python_template/
 ```
